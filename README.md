@@ -5,9 +5,9 @@ It uses Apache Spark and RandomForestRegressor to predict social media engagemen
 
 ## How to Run in Codespaces
 
-1.  **Install Dependencies**:
+1.  **Run Setup Script** (Installs Java & Dependencies):
     ```bash
-    pip install -r requirements.txt
+    bash codespace_setup.sh
     ```
 
 2.  **Generate Data** (Optional, if you want fresh data):
@@ -17,6 +17,6 @@ It uses Apache Spark and RandomForestRegressor to predict social media engagemen
 
 3.  **Run the Application**:
     ```bash
-    streamlit run streamlit_app.py
+    python -m streamlit run streamlit_app.py
     ```
 "# Social-Media-Analytics"
