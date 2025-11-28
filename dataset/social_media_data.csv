@@ -1,0 +1,9 @@
+Date_Time,Engagement_Score,Platform,Post_Type,Region,Language,Has_Hashtags,Has_Media,Is_Ad,Followers,Likes,Shares,Comments
+2023-01-01 10:00:00,500,Twitter,Text,US,English,Yes,No,No,1000,50,10,5
+2023-01-01 11:00:00,1200,Instagram,Image,UK,English,Yes,Yes,No,5000,200,50,20
+2023-01-01 12:00:00,3000,Facebook,Video,US,Spanish,No,Yes,Yes,10000,500,100,50
+2023-01-01 13:00:00,150,LinkedIn,Article,IN,English,Yes,No,No,500,20,5,2
+2023-01-02 10:00:00,600,Twitter,Text,US,English,Yes,No,No,1100,60,12,6
+2023-01-02 11:00:00,1300,Instagram,Image,UK,English,Yes,Yes,No,5100,220,55,22
+2023-01-02 12:00:00,3200,Facebook,Video,US,Spanish,No,Yes,Yes,10200,550,110,55
+2023-01-02 13:00:00,160,LinkedIn,Article,IN,English,Yes,No,No,520,25,6,3
